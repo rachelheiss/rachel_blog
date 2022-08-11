@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/example-post/index.html",
-    "href": "posts/example-post/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "data-science-final-project/index.html",
     "href": "data-science-final-project/index.html",
     "title": "Final project fun times",
@@ -14,11 +7,11 @@
     "text": "bloooop"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "jkhkj",
+    "objectID": "posts/example-post/index.html",
+    "href": "posts/example-post/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+    "text": "1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -26,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "jkhkj",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
   }
 ]
