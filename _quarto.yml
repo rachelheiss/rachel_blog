@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "jkhkj"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - data-science-final-project/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
