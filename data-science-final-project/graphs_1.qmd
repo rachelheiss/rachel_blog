@@ -10,7 +10,7 @@ plot_avg_pct_cap_graph
 
 ## thing2
 
-here's a paragraph avlkasdflkj o;qwe aslkdjf;lk aoier l;askdfj 
+here's a paragraph
 
 ```{r, top shows graph, echo = FALSE, warning = FALSE, message = FALSE}
 plot_top_shows_graph <- read_rds("plot_top_shows.rds")
