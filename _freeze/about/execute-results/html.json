@@ -1,7 +1,7 @@
 {
-  "hash": "ca6e0c08b7f4c462db0effdc058a3e8a",
+  "hash": "2f836984cdb8d3dea87e76475e3f3430",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\n## About Me\nI'm going to just use something I wrote in a tutorial a few days ago as my introduction for now. Hello! My name is **Rachel Heiss**, and I'm a home schooled sophomore in high school. I'm currently in [Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info), which is why I'm making this practice website. I have five younger siblings and live near Atlanta, Georgia. I enjoy reading, writing, baking, Marvel movies, and listening to musicals, podcasts, and Taylor Swift. \n\n## Contact Me\n* **Email:** rachelheiss@gmail.com\n* **GitHub:** [rachelheiss](https://github.com/rachelheiss)\n\n\n::: {.cell}\n\n:::\n",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\n## About Me\nHello there! My name is **Rachel Heiss**, and I'm a home schooled sophomore in high school. I'm currently in [Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info). I have five younger siblings and live near Atlanta, Georgia. I enjoy reading, writing, baking, Marvel movies, and listening to musicals, podcasts, and Taylor Swift. \n\n## Contact Me\n* **GitHub:** [rachelheiss](https://github.com/rachelheiss)\n* **Email:** rachelheiss@gmail.com\n* **Twitter:** [@RachelHeiss1](https://twitter.com/RachelHeiss1)\n\n\n::: {.cell}\n\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
