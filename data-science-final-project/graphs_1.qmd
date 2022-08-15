@@ -1,5 +1,9 @@
+---
+title: "More Graphs"
+---
 
 ```{r, avg capacity graph, echo = FALSE, warning = FALSE, message = FALSE}
+library(tidyverse)
 plot_avg_pct_cap_graph <- read_rds("plot_pct_cap.rds")
 plot_avg_pct_cap_graph 
 ```

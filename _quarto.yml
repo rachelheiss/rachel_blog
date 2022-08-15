@@ -23,7 +23,7 @@ website:
       contents: 
         - data-science-final-project/index.qmd
         - data-science-final-project/sources.qmd
-        - data-science-final-project/graphs1.qmd
+        - data-science-final-project/graphs_1.qmd
     
     - title: "Hello"
       

@@ -1,8 +1,10 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "ca6e0c08b7f4c462db0effdc058a3e8a",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"About\"\n---\n\n\n## About Me\nI'm going to just use something I wrote in a tutorial a few days ago as my introduction for now. Hello! My name is **Rachel Heiss**, and I'm a home schooled sophomore in high school. I'm currently in [Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info), which is why I'm making this practice website. I have five younger siblings and live near Atlanta, Georgia. I enjoy reading, writing, baking, Marvel movies, and listening to musicals, podcasts, and Taylor Swift. \n\n## Contact Me\n* **Email:** rachelheiss@gmail.com\n* **GitHub:** [rachelheiss](https://github.com/rachelheiss)\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
