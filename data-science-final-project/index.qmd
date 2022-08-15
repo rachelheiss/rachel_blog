@@ -1,8 +1,6 @@
 ---
-title: "Final project"
+title: "These Prices are Defying Gravity; Broadway Trends 1985 - 2022"
 ---
-
-# These Prices are Defying Gravity; Broadway Trends 1985 - 2022
 
 How has Broadway changed in the past 37 years? This data –made up of about 47, 000 observations– spans from 1985 to 2022 and was scraped from [playbill.com](https://www.playbill.com/). I adjusted ticket prices to be in 2022 currency, and then made several graphs to examine ticket prices and theatre capacity over the years both overall and for the most popular shows. Today's Broadway tickets cost much more than they did in the 80s, but the percentage of theater capacity filled keeps going up. 
 
@@ -14,11 +12,12 @@ broadway <- read_rds("clean_data.rds")
 
 ```
 
-## thing
+## Overall Broadyway Trends
 
 ```{r, Ticket Price Graph, echo = FALSE, warning = FALSE, message = FALSE}
 plot_ticket_price_graph <- read_rds("plot_average_ticket_price.rds")
 plot_ticket_price_graph
 ```
+
 
 

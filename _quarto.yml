@@ -12,7 +12,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - data-science-final-project/index.qmd
+      - href: data-science-final-project/index.qmd
+        text: Final Project
        
   sidebar:
     - id: data-science-final-project
