@@ -4,7 +4,7 @@ title: "More Graphs"
 
 ```{r, avg capacity graph, echo = FALSE, warning = FALSE, message = FALSE}
 library(tidyverse)
-plot_avg_pct_cap_graph <- read_rds("plot_pct_cap.rds")
+plot_avg_pct_cap_graph <- readRDS("plot_pct_cap.rds")
 plot_avg_pct_cap_graph 
 ```
 
@@ -13,16 +13,16 @@ plot_avg_pct_cap_graph
 here's a paragraph
 
 ```{r, top shows graph, echo = FALSE, warning = FALSE, message = FALSE}
-plot_top_shows_graph <- read_rds("plot_top_shows.rds")
+plot_top_shows_graph <- readRDS("plot_top_shows.rds")
 plot_top_shows_graph
 ```
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
-plot_pct_vs_cap_graph <- read_rds("plot_interactive_pct_vs_cap.rds")
+plot_pct_vs_cap_graph <- readRDS("plot_interactive_pct_vs_cap.rds")
 plot_pct_vs_cap_graph
 ```
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
-plot_avg_top_shows_tickets_graph <- read_rds("plot_avg_top_shows_tickets_graph.rds")
+plot_avg_top_shows_tickets_graph <- readRDS("plot_avg_top_shows_tickets_graph.rds")
 plot_avg_top_shows_tickets_graph
 ```
