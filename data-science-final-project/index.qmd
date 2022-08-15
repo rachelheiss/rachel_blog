@@ -2,7 +2,7 @@
 title: "Final project"
 ---
 
-bloooop
+How has Broadway changed in the past 37 years? This data –made up of about 47, 000 observations– spans from 1985 to 2022 and was scraped from playbill.com. I adjusted ticket prices to be in 2022 currency, and then made several graphs to examine ticket prices and theatre capacity over the years both overall and for the most popular shows. Today's Broadway tickets cost much more than they did in the 80s, but the percentage of theater capacity filled keeps going up. 
 
 ```{r,echo = FALSE, warning = FALSE, message = FALSE}
 library(tidyverse)
@@ -19,27 +19,4 @@ plot_ticket_price_graph <- read_rds("plot_average_ticket_price.rds")
 plot_ticket_price_graph
 ```
 
-```{r, avg capacity graph, echo = FALSE, warning = FALSE, message = FALSE}
-plot_avg_pct_cap_graph <- read_rds("plot_pct_cap.rds")
-plot_avg_pct_cap_graph 
-```
-
-## thing2
-
-here's a paragraph avlkasdflkj o;qwe aslkdjf;lk aoier l;askdfj 
-
-```{r, top shows graph, echo = FALSE, warning = FALSE, message = FALSE}
-plot_top_shows_graph <- read_rds("plot_top_shows.rds")
-plot_top_shows_graph
-```
-
-```{r, echo = FALSE, warning = FALSE, message = FALSE}
-plot_pct_vs_cap_graph <- read_rds("plot_interactive_pct_vs_cap.rds")
-plot_pct_vs_cap_graph
-```
-
-```{r, echo = FALSE, warning = FALSE, message = FALSE}
-plot_avg_top_shows_tickets_graph <- read_rds("plot_avg_top_shows_tickets_graph.rds")
-plot_avg_top_shows_tickets_graph
-```
 
