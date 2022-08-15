@@ -1,38 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Here’s a title",
-    "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+    "objectID": "data-science-final-project/graphs_1.html#thing2",
+    "href": "data-science-final-project/graphs_1.html#thing2",
+    "title": "More Graphs",
+    "section": "thing2",
+    "text": "thing2\nhere’s a paragraph avlkasdflkj o;qwe aslkdjf;lk aoier l;askdfj"
   },
   {
     "objectID": "data-science-final-project/index.html",
     "href": "data-science-final-project/index.html",
     "title": "Final project",
     "section": "",
-    "text": "bloooop"
-  },
-  {
-    "objectID": "data-science-final-project/index.html#thing",
-    "href": "data-science-final-project/index.html#thing",
-    "title": "Final project",
-    "section": "thing",
-    "text": "thing"
-  },
-  {
-    "objectID": "data-science-final-project/index.html#thing2",
-    "href": "data-science-final-project/index.html#thing2",
-    "title": "Final project",
-    "section": "thing2",
-    "text": "thing2\nhere’s a paragraph avlkasdflkj o;qwe aslkdjf;lk aoier l;askdfj"
+    "text": "How has Broadway changed in the past 37 years? This data –made up of about 47, 000 observations– spans from 1985 to 2022 and was scraped from playbill.com. I adjusted ticket prices to be in 2022 currency, and then made several graphs to examine ticket prices and theatre capacity over the years both overall and for the most popular shows. Today’s Broadway tickets cost much more than they did in the 80s, but the percentage of theater capacity filled keeps going up."
   },
   {
     "objectID": "posts/example-post/index.html",
@@ -40,5 +19,26 @@
     "title": "Post With Code",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m going to just use something I wrote in a tutorial a few days ago as my introduction for now. Hello! My name is Rachel Heiss, and I’m a home schooled sophomore in high school. I’m currently in Kane’s Free High School Data Science Bootcamp, which is why I’m making this practice website. I have five younger siblings and live near Atlanta, Georgia. I enjoy reading, writing, baking, Marvel movies, and listening to musicals, podcasts, and Taylor Swift."
+  },
+  {
+    "objectID": "about.html#contact-me",
+    "href": "about.html#contact-me",
+    "title": "About",
+    "section": "Contact Me",
+    "text": "Contact Me\n\nEmail: rachelheiss@gmail.com\nGitHub: rachelheiss"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Here’s a title",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
   }
 ]
