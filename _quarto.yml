@@ -5,17 +5,32 @@ execute:
   freeze: auto
 
 website:
-  title: "jkhkj"
+  title: "Rachel's Blog"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - data-science-final-project/index.qmd
+       
+  sidebar:
+    - id: data-science-final-project
+      title: "Final Project"
+      style: "docked"
+      background: "#ffffff"
+      collapse-level: 5
+      contents: 
+        - data-science-final-project/index.qmd
+        - data-science-final-project/sources.qmd
+    
+    - title: "Hello"
+      
+
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
