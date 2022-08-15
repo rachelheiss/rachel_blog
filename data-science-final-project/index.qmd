@@ -12,7 +12,7 @@ broadway <- read_rds("clean_data.rds")
 
 ```
 
-## Overall Broadyway Trends
+## Overall Broadway Trends
 
 ```{r, Ticket Price Graph, echo = FALSE, warning = FALSE, message = FALSE}
 plot_ticket_price_graph <- read_rds("plot_average_ticket_price.rds")
