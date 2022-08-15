@@ -3,11 +3,12 @@ title: "About"
 ---
 
 ## About Me
-Hello there! My name is **Rachel Heiss**, and I'm a home schooled sophomore in high school. I'm currently in [Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info), which is why I'm making this practice website. I have five younger siblings and live near Atlanta, Georgia. I enjoy reading, writing, baking, Marvel movies, and listening to musicals, podcasts, and Taylor Swift. 
+Hello there! My name is **Rachel Heiss**, and I'm a home schooled sophomore in high school. I'm currently in [Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info). I have five younger siblings and live near Atlanta, Georgia. I enjoy reading, writing, baking, Marvel movies, and listening to musicals, podcasts, and Taylor Swift. 
 
 ## Contact Me
-* **Email:** rachelheiss@gmail.com
 * **GitHub:** [rachelheiss](https://github.com/rachelheiss)
+* **Email:** rachelheiss@gmail.com
+* **Twitter:** [@RachelHeiss1](https://twitter.com/RachelHeiss1)
 
 ```{r}
 
