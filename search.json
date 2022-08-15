@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "data-science-final-project/index.html",
-    "href": "data-science-final-project/index.html",
-    "title": "Final project fun times",
-    "section": "",
-    "text": "bloooop"
-  },
-  {
-    "objectID": "posts/example-post/index.html",
-    "href": "posts/example-post/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -26,5 +12,33 @@
     "title": "Here’s a title",
     "section": "",
     "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 11, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data-science-final-project/index.html",
+    "href": "data-science-final-project/index.html",
+    "title": "Final project",
+    "section": "",
+    "text": "bloooop"
+  },
+  {
+    "objectID": "data-science-final-project/index.html#thing",
+    "href": "data-science-final-project/index.html#thing",
+    "title": "Final project",
+    "section": "thing",
+    "text": "thing"
+  },
+  {
+    "objectID": "data-science-final-project/index.html#thing2",
+    "href": "data-science-final-project/index.html#thing2",
+    "title": "Final project",
+    "section": "thing2",
+    "text": "thing2\nhere’s a paragraph avlkasdflkj o;qwe aslkdjf;lk aoier l;askdfj"
+  },
+  {
+    "objectID": "posts/example-post/index.html",
+    "href": "posts/example-post/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
   }
 ]
