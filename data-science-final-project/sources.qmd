@@ -4,3 +4,11 @@ title: "Sources"
 
 * [playbill.com](https://www.playbill.com/) 
   * Specifically [this dataset](https://www.kaggle.com/datasets/praveensh/broadway-shows-data) on Kaggle
+* Learning how to use gganimate: 
+  - [This article](https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-animation-in-r/) on Datanovia 
+  - [gganimate.com](https://gganimate.com/)
+  - [This article](https://rpubs.com/jsmccid/animbetter) on RPubs
+  - [This article](https://towardsdatascience.com/animating-your-data-visualizations-like-a-boss-using-r-f94ae20843e3) on "Towards Data Science"
+  - And [this article](https://towardsdatascience.com/how-to-create-animated-plots-in-r-adf53a775961) on "Towards Data Science"
+  
+  

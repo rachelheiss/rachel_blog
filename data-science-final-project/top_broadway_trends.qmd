@@ -32,7 +32,7 @@ tbt_graph_3
 
 ----
 
-This graph shows the average ticket prices for Broadway's most popular shows. *The Book of Mormon* and *Hamilton* (which we know are the most popular shows) are the most expensive, with *Hamilton* as a clear outlier at around $300 a ticket. As we reach shows with a higher percentage of time on Broadway running weekly, prices rise and peak at *Hamilton* and *The Book of Mormon*, then drop back down into 100 dollar territory at older shows that have spent most of their time as weekly shows.
+This graph shows the average ticket prices for Broadway's most popular shows. *The Book of Mormon* and *Hamilton* (which, as we know, are the most popular shows) are the most expensive, with *Hamilton* as a clear outlier at around $300 a ticket. As we reach shows with a higher percentage of time on Broadway running weekly, prices rise and peak at *Hamilton* and *The Book of Mormon*, then drop back down into 100 dollar territory at older shows that have spent most of their time as weekly shows.
 
 ----
 
