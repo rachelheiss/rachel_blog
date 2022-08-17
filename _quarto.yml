@@ -16,7 +16,7 @@ website:
         text: Home
       - about.qmd
       - href: data-science-final-project/index.qmd
-        text: Final Project
+        text: Broadway Project
        
   sidebar:
     - id: data-science-final-project
