@@ -33,5 +33,12 @@
     "title": "More Graphs",
     "section": "thing2",
     "text": "thing2\nhere’s a paragraph"
+  },
+  {
+    "objectID": "data-science-final-project/overall_broadway_trends.html",
+    "href": "data-science-final-project/overall_broadway_trends.html",
+    "title": "Overall",
+    "section": "",
+    "text": "“Percentage of theatre capacity filled” is the percent of seats taken from the total seats available in a theatre.\n\n\n\n\n\nAs you can see, both ticket prices and the percent of seats filled have been going up, but people aren’t filling up theatres because it costs more to attend shows— Broadway’s just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay."
   }
 ]
