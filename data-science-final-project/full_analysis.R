@@ -4,6 +4,7 @@
 library(tidyverse)
 library(lubridate)
 library(MetBrewer)
+library(plotly)
 
 
 # Clean data --------------------------------------------------------------
@@ -134,7 +135,7 @@ plot_top_shows <-
 
 write_rds(plot_top_shows, "plot_top_shows.rds") 
 
-# Avg capacity + pct years running weekly graph
+# Avg capacity + pct years running weekly graph (color dots by total l time running?)
 plot_pct_vs_cap <- 
   ggplot(top_shows_cap, aes(x = pct_years_full, y = avg_cap)) + 
   geom_smooth(se = FALSE, method = "lm", color = "blue") +
@@ -151,7 +152,7 @@ plot_interactive_pct_vs_cap <- ggplotly(plot_pct_vs_cap, tooltip = "text")
 write_rds(plot_pct_vs_cap, "plot_pct_vs_cap.rds") 
 write_rds(plot_interactive_pct_vs_cap, "plot_interactive_pct_vs_cap.rds")
 
-# Avg top shows ticket price graph 
+# Avg top shows ticket price graph (color dots by total time running?)
 
 plot_top_ticket_price <- ggplot(top_shows_cap, aes(y = avg_ticket_price, x = pct_years_full)) +
   geom_point(aes(text = Show_name)) + 
@@ -166,7 +167,7 @@ plot_top_ticket_price <- ggplot(top_shows_cap, aes(y = avg_ticket_price, x = pct
 plot_avg_top_shows_tickets <- ggplotly(plot_top_ticket_price, tooltip = "text") 
 
 write_rds(plot_avg_top_shows_tickets, "plot_avg_top_shows_tickets_graph.rds")
-
+   
 
 
 
