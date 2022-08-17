@@ -1,0 +1,15 @@
+---
+title: "Overall"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+library(tidyverse)
+obt_graph_1 <- read_rds("plot_average_ticket_price.rds")
+obt_graph_1 
+```
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+obt_graph_2 <- read_rds("plot_pct_cap.rds") 
+obt_graph_2
+```
+

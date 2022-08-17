@@ -1,5 +1,8 @@
 project:
   type: website
+  resources: 
+    - "*.gif"
+    - "*.mp4"
 
 execute:
   freeze: auto
@@ -23,8 +26,9 @@ website:
       collapse-level: 5
       contents: 
         - data-science-final-project/index.qmd
+        - data-science-final-project/overall_broadway_trends.qmd
+        - data-science-final-project/top_broadway_trends.qmd
         - data-science-final-project/sources.qmd
-        - data-science-final-project/graphs_1.qmd
     
     - title: "Hello"
       

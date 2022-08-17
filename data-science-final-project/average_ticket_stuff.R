@@ -3,6 +3,10 @@ library(plotly)
 library(tidyverse)
 library(ggplot2)
 library(gganimate)
+
+
+broadway <- read_rds("clean_data.rds")
+
 avg_ticket_price <-broadway |>
   group_by(year) |>
   summarise(avg_ticket = mean(avg_ticket_2022))
@@ -34,12 +38,15 @@ plot_years_pct_cap_tickets_animated <- broadway |>
     avg_ticket_2022 >=100 & avg_ticket_2022 < 200 ~ "Mid-priced",
     avg_ticket_2022 >=200 ~ "Expensive"
   )) |>
+  mutate(price_bucket = factor(price_bucket, 
+                               levels = c("Cheap", "Mid-priced", "Expensive"), 
+                               ordered = TRUE)) |> 
   mutate(pct_cap = pct_cap/100) |>
 ggplot(aes(x = pct_cap, y = avg_ticket_2022, color = price_bucket)) + 
   geom_point(alpha = .5) +
-  scale_color_manual(values = c(my_colors[1], my_colors[3], my_colors[7])) + 
+  scale_color_manual(values = c(my_colors[1], my_colors[7], my_colors[3])) + 
   # geom_smooth() +
-  theme_minimal() + 
+  theme_minimal(base_size = 13) + 
   scale_x_continuous(labels = scales::percent_format()) + 
   scale_y_continuous(labels=scales::dollar_format()) +
   labs(title = "Year: {round(frame_time, 0)}",
@@ -48,13 +55,15 @@ ggplot(aes(x = pct_cap, y = avg_ticket_2022, color = price_bucket)) +
        color = "Price",
        subtitle = "Data Source: Playbill.com") + 
   transition_time(year) + 
-  ease_aes("quadratic-in-out", interval = 1.00)
+  enter_fade() +
+  exit_fade() +
+  ease_aes("linear")
 
 plot_years_pct_cap_tickets_animated_graph <- animate(plot_years_pct_cap_tickets_animated,
         start_pause = 15, 
         end_pause = 15, 
-        nframes= 900, 
-        fps = 18) 
+        nframes= 1080, 
+        fps = 24) 
 anim_save(plot_years_pct_cap_tickets_animated_graph, filename = "animated_years_pct_cap_tickets.gif")
 
 plot_years_pct_cap_tickets_animated_graph
@@ -63,6 +72,6 @@ animated_years_pct_cap_tickets_mp4 <- animate(plot_years_pct_cap_tickets_animate
                                      width = 1200, 
                                      height = 720, 
                                      res = 150,
-                                     nframes = 900, 
-                                     fps = 18,
+                                     nframes = 1080, 
+                                     fps = 24,
                                      renderer = av_renderer("animated_years_pct_cap_tickets.mp4"))

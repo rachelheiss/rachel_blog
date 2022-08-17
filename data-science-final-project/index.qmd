@@ -4,22 +4,9 @@ title: "These Prices are Defying Gravity: Broadway Trends 1985 - 2022"
 
 How has Broadway changed in the past 37 years? This data –made up of about 47, 000 observations– spans from 1985 to 2022 and was scraped from [playbill.com](https://www.playbill.com/). Ticket prices are adjusted for inflation, and then several graphs to examine ticket prices and theater capacity over the years both overall and for the most popular shows. Today's Broadway tickets cost much more than they did in the 80s, but theaters are fuller despite the rising prices. 
 
-```{r,echo = FALSE, warning = FALSE, message = FALSE} 
-library(tidyverse)
-library(MetBrewer)
-library(jsonlite)
-
-broadway <- read_rds("clean_data.rds")
-
-# animated graph combining all years' ticket prices and theater capacity 
-```
-
-
-```{r}
-animated_years_pct_cap_tickets_mp4 
-```
-
-
-
-
+<div class="ratio ratio-16x9">
+<video controls>
+<source src="animated_years_pct_cap_tickets.mp4" type="video/mp4">
+</video>
+</div>
 

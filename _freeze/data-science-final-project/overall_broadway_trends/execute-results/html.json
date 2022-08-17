@@ -1,0 +1,16 @@
+{
+  "hash": "16b5db60f825971e2b5b74a6024f2866",
+  "result": {
+    "markdown": "---\ntitle: \"Overall\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](overall_broadway_trends_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](overall_broadway_trends_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "overall_broadway_trends_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

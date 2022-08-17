@@ -1,0 +1,21 @@
+---
+title: "Top Shows"
+---
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+library(tidyverse)
+tbt_graph_1 <- read_rds("plot_top_shows.rds") 
+tbt_graph_1 
+```
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+tbt_graph_2 <- read_rds("plot_avg_top_shows_tickets_graph.rds")
+tbt_graph_2
+```
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+# colour dots by total lifetime
+tbt_graph_3 <- read_rds( "plot_interactive_pct_vs_cap.rds")
+tbt_graph_3
+```
+
