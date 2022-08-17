@@ -120,12 +120,23 @@ top_shows_cap <- top_shows_year_count |>
   left_join(total_years_running, by = "Show_name") |> 
   left_join(top_shows_avg_ticket, by = "Show_name") |> 
   mutate(pct_years_full = n / years_running) |>
-  mutate(avg_cap = avg_cap/100)
-
+  mutate(avg_cap = avg_cap/100) |>
+  mutate(lifetime_category = case_when(
+    years_running >= 30 ~ "More than 30",
+    years_running >= 20 & years_running < 30 ~ "20 to 30",
+    years_running >= 10 & years_running < 20 ~ "10 to 20",
+    years_running < 10 ~ "Less than 10"
+  )) |>
+  mutate(lifetime_category = factor(lifetime_category, 
+                               levels = c("Less than 10", 
+                                          "10 to 20", 
+                                          "20 to 30", 
+                                          "More than 30"), 
+                               ordered = TRUE))
 # most played shows graph 
 plot_top_shows <-
   ggplot(top_shows_year_count, mapping = aes(x = n, y = fct_rev(Show_name))) +
-  geom_col() +
+  geom_col(fill = my_colors[1]) +
   scale_x_continuous(breaks = seq(0, 30, 4)) + 
   theme_minimal() +
   labs(y = NULL, 
@@ -138,14 +149,19 @@ write_rds(plot_top_shows, "plot_top_shows.rds")
 # Avg capacity + pct years running weekly graph (color dots by total l time running?)
 plot_pct_vs_cap <- 
   ggplot(top_shows_cap, aes(x = pct_years_full, y = avg_cap)) + 
-  geom_smooth(se = FALSE, method = "lm", color = "blue") +
-  geom_point(aes(text = Show_name)) +
+  geom_smooth(se = FALSE, method = "lm", color = my_colors[1]) +
+  geom_point(aes(text = Show_name,  color = lifetime_category)) +
   scale_x_continuous(labels = scales::percent_format()) + 
   scale_y_continuous(labels=scales::percent_format()) +
+  scale_color_manual(values = c(my_colors[4], 
+                                my_colors[5], 
+                                my_colors[6],
+                                my_colors[7])) +
   theme_minimal() + 
   labs(x = "Percent of Lifetime Running Weekly", 
        y = "Percent of Theatre Capacity Filled",
-       title = "")
+       title = "Average Theatre Capacity Filled for Top Shows",
+       color = "Total Years on Broadway")
 
 plot_interactive_pct_vs_cap <- ggplotly(plot_pct_vs_cap, tooltip = "text")
 
@@ -154,15 +170,22 @@ write_rds(plot_interactive_pct_vs_cap, "plot_interactive_pct_vs_cap.rds")
 
 # Avg top shows ticket price graph (color dots by total time running?)
 
-plot_top_ticket_price <- ggplot(top_shows_cap, aes(y = avg_ticket_price, x = pct_years_full)) +
-  geom_point(aes(text = Show_name)) + 
-  geom_smooth(se = FALSE, method = "loess", formula = y ~ x) +
+my_colors <- met.brewer("Veronese", 7)
+plot_top_ticket_price <- ggplot(top_shows_cap, aes(y = avg_ticket_price, 
+                                                   x = pct_years_full)) +
+  geom_smooth(se = FALSE, method = "loess", formula = y ~ x, color = my_colors[1]) +
+  geom_point(aes(text = Show_name, color = lifetime_category)) + 
   scale_x_continuous(labels = scales::percent_format()) + 
   scale_y_continuous(labels=scales::dollar_format()) +
+  scale_color_manual(values = c(my_colors[4], 
+                                my_colors[5], 
+                                my_colors[6],
+                                my_colors[7])) + 
   theme_minimal() + 
   labs(title = "Average Ticket Prices for Top Shows",
        x = "Percent of Lifetime Running Weekly", 
-       y = "Ticket Price") 
+       y = "Ticket Price",
+       color = "Total Years on Broadway") 
 
 plot_avg_top_shows_tickets <- ggplotly(plot_top_ticket_price, tooltip = "text") 
 
