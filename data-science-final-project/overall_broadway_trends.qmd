@@ -1,6 +1,7 @@
 ---
 title: "Overall"
 ---
+These graphs show Broadway's yearly average ticket prices and theatre capacity filled. 
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
 library(tidyverse)
@@ -8,8 +9,11 @@ obt_graph_1 <- read_rds("plot_average_ticket_price.rds")
 obt_graph_1 
 ```
 
+"Percentage of theatre capacity filled" is the percent of seats taken from the total seats available in a theatre. 
+
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
 obt_graph_2 <- read_rds("plot_pct_cap.rds") 
 obt_graph_2 
 ```
 
+As you can see, both ticket prices and the percent of seats filled have been going up, but people aren't filling up theatres because it costs more to attend shows— Broadway's just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay. 
