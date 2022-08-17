@@ -1,3 +1,6 @@
 ---
 title: "Sources"
 ---
+
+* [playbill.com](https://www.playbill.com/) 
+  * Specifically [this dataset](https://www.kaggle.com/datasets/praveensh/broadway-shows-data) on Kaggle

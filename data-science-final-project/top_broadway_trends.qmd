@@ -2,20 +2,44 @@
 title: "Top Shows"
 ---
 
+## Most Popular Shows
+
+This bar graph shows the most popular shows on Broadway by how many years a show ran every week. A lot of well known and popular shows are included in this, but this isn't the best way to break down popularity, as extremely long-running shows such as *The Phantom of the Opera* rank higher on the highest on the list because they've had more time to play weekly than other shows that are just as well known but have been on Broadway for a shorter amount of time. 
+
+----
+
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
 library(tidyverse)
 tbt_graph_1 <- read_rds("plot_top_shows.rds") 
 tbt_graph_1 
 ```
 
-```{r, echo = FALSE, warning = FALSE, message = FALSE}
-tbt_graph_2 <- read_rds("plot_avg_top_shows_tickets_graph.rds")
-tbt_graph_2
-```
+---- 
+
+## Most Popular Shows (In Depth)
+
+These two graphs paint a better picture of what the most popular shows are. Instead of being organized by how many years they ran weekly, they're organized by the percentage of their total years on Broadway running every week, and coloured by how long they've been playing on Broadway in general. If you hover over a point, you can see the name of the show that that point represents. 
+
+In this graph, you can see that as the percentage of a show's total time on Broadway running weekly gets higher, so does the theatre capacity filled, which means that more people go to those shows. This makes *The Book of Mormon* and *Hamilton* the top two shows, both with over 100% theatre capacity filled on average (standing room only), and around 70% of their total time on Broadway running weekly. This still makes *The Phantom of the Opera* really popluar, but below *Wicked*, *The Lion King*, and *Aladin* in theatre capacity filled. 
+
+---
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
 # colour dots by total lifetime
 tbt_graph_3 <- read_rds( "plot_interactive_pct_vs_cap.rds")
 tbt_graph_3
 ```
+
+----
+
+This graph shows the average ticket prices for Broadway's most popular shows. *The Book of Mormon* and *Hamilton* (which we know are the most popular shows) are the most expensive, with *Hamilton* as a clear outlier at around $300 a ticket. As we reach shows with a higher percentage of time on Broadway running weekly, prices rise and peak at *Hamilton* and *The Book of Mormon*, then drop back down into 100 dollar territory at older shows that have spent most of their time as weekly shows.
+
+----
+
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
+tbt_graph_2 <- read_rds("plot_avg_top_shows_tickets_graph.rds")
+tbt_graph_2
+```
+
+----
 

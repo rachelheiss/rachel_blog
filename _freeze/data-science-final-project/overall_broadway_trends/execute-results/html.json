@@ -1,7 +1,7 @@
 {
-  "hash": "aa6e3cbb91f9d195f663ff25d8e34d87",
+  "hash": "81f54aa1ee42c1fb1f575c7590780715",
   "result": {
-    "markdown": "---\ntitle: \"Overall\"\n---\n\nThese graphs show Broadway's yearly average ticket prices and theatre capacity filled. \n\n\n::: {.cell}\n::: {.cell-output-display}\n![](overall_broadway_trends_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n\"Percentage of theatre capacity filled\" is the percent of seats taken from the total seats available in a theatre. \n\n\n::: {.cell}\n::: {.cell-output-display}\n![](overall_broadway_trends_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\nAs you can see, both ticket prices and the percent of seats filled have been going up, but people aren't filling up theatres because it costs more to attend shows— Broadway's just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay. \n",
+    "markdown": "---\ntitle: \"Overall\"\n---\n\n\nThese graphs show Broadway's yearly average ticket prices and theatre capacity filled. \n\n----\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](overall_broadway_trends_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n----\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](overall_broadway_trends_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n----\n\nAs you can see, both ticket prices and the percent of seats filled have been going up, but people aren't filling up theatres because it costs more to attend shows— Broadway's just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay. \n",
     "supporting": [
       "overall_broadway_trends_files"
     ],

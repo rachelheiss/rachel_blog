@@ -2,7 +2,11 @@
 title: "These Prices are Defying Gravity: Broadway Trends 1985 - 2022"
 ---
 
-How has Broadway changed in the past 37 years? This data –made up of about 47, 000 observations– spans from 1985 to 2022 and was scraped from [playbill.com](https://www.playbill.com/). Ticket prices are adjusted for inflation, and then several graphs to examine ticket prices and theater capacity over the years both overall and for the most popular shows. Today's Broadway tickets cost much more than they did in the 80s, but theaters are fuller despite the rising prices. 
+How has Broadway changed in the past 37 years? This data –made up of about 47, 000 observations– spans from 1985 to 2022 and was scraped from [playbill.com](https://www.playbill.com/). Ticket prices are adjusted for inflation, and then several graphs examine ticket prices and theater capacity over the years both overall and for the most popular shows. Today's Broadway tickets cost much more than they did in the 80s, but theaters are fuller despite the rising prices. 
+
+This animated graph shows ticket price and theatre capacity filled for every Broadway show 1985-2022.  ("Percentage of theatre capacity filled" is the percentage of seats taken from the total seats available in a theatre)
+
+----
 
 <div class="ratio ratio-16x9">
 <video controls>
@@ -10,3 +14,6 @@ How has Broadway changed in the past 37 years? This data –made up of about 47,
 </video>
 </div>
 
+---
+
+All code for this project can be found [here](https://github.com/rachelheiss/rachel_blog/tree/main/data-science-final-project). 

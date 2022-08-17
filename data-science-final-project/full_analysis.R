@@ -142,7 +142,7 @@ plot_top_shows <-
   scale_x_continuous(breaks = seq(0, 30, 4)) + 
   theme_minimal() +
   labs(y = NULL, 
-       x = "Number of Years Ran Weekly", 
+       x = "Number of Years Running Weekly", 
        title = "Most Played Shows",
        subtitle = "",
        caption = "Data Source: Playbill.com")
@@ -186,7 +186,7 @@ plot_top_ticket_price <- ggplot(top_shows_cap, aes(y = avg_ticket_price,
                                 my_colors[7])) + 
   theme_minimal() + 
   labs(title = "Average Ticket Prices for Top Shows",
-       x = "Percent of Lifetime Running Weekly", 
+       x = "Percent of Total Years on Broadway Running Weekly", 
        y = "Ticket Price",
        color = "Total Years on Broadway") 
 
