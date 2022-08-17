@@ -10,6 +10,6 @@ obt_graph_1
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
 obt_graph_2 <- read_rds("plot_pct_cap.rds") 
-obt_graph_2
+obt_graph_2 
 ```
 
