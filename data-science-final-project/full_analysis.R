@@ -38,6 +38,7 @@ write_rds(broadway, "clean_data.rds")
 
 
 # Average ticket stuff ----------------------------------------------------
+my_colors <- met.brewer("Veronese", 7)
 
 avg_ticket_price <-broadway |>
   group_by(year) |>
@@ -45,8 +46,8 @@ avg_ticket_price <-broadway |>
 
 plot_ticket_price_graph <- avg_ticket_price |>
   ggplot(mapping = aes(x = year, y =  avg_ticket, text = "")) +
-  geom_smooth(color = "blue", se = FALSE, method = "loess", formula =  "y ~ x") +
-  geom_point() + 
+  geom_smooth(color = my_colors[3], se = FALSE, method = "loess", formula =  "y ~ x") +
+  geom_point(color = my_colors[7]) + 
   scale_x_continuous(breaks = c(1980, 1990, 2000, 2010, 2020)) +
   scale_y_continuous(labels=scales::dollar_format()) + 
   labs(title = "Broadway Ticket Prices 1985 - 2022 (Adjusted for Inflation)",
@@ -66,13 +67,14 @@ avg_theatre_pct_cap <- broadway |>
 
 plot_pct_cap_graph <- avg_theatre_pct_cap  |>
   ggplot(mapping = aes(x = year, y =  avg_pct_cap)) +
-  geom_smooth(color = "blue", se = FALSE, method = "loess", formula =  "y ~ x") +
-  geom_point() + 
+  geom_smooth(color = my_colors[3], se = FALSE, method = "loess", formula =  "y ~ x") +
+  geom_point(color = my_colors[7]) + 
   scale_y_continuous(labels = scales::percent) + 
   theme_minimal() + 
   labs(x = "Year", y = "Theatre Capacity Filled", 
        title = "Average Percentage of Theatre Capacity Filled 1985 - 2022",
-       subtitle = "More people have been ")
+       subtitle = "The number of people going to shows has been rising since 1985, but has dropped in \nrecent years due to the COVID-19 pandemic.",
+       caption = "Data Source: Playbill.com")
 
 write_rds(plot_pct_cap_graph, "plot_pct_cap.rds") 
 
@@ -142,7 +144,8 @@ plot_top_shows <-
   labs(y = NULL, 
        x = "Number of Years Ran Weekly", 
        title = "Most Played Shows",
-       subtitle = "")
+       subtitle = "",
+       caption = "Data Source: Playbill.com")
 
 write_rds(plot_top_shows, "plot_top_shows.rds") 
 
@@ -158,7 +161,7 @@ plot_pct_vs_cap <-
                                 my_colors[6],
                                 my_colors[7])) +
   theme_minimal() + 
-  labs(x = "Percent of Lifetime Running Weekly", 
+  labs(x = "Percent of Total Years on Broadway Running Weekly", 
        y = "Percent of Theatre Capacity Filled",
        title = "Average Theatre Capacity Filled for Top Shows",
        color = "Total Years on Broadway")
