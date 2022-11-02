@@ -1,10 +1,8 @@
 {
-  "hash": "cd5e9b26aba6ba094c0fcf667ed71f76",
+  "hash": "ca3b466e94aad19d0a69a5ee6deb67bd",
   "result": {
-    "markdown": "---\ntitle: \"Creeper cake\"\ndate: \"2021-06-03\"\nimage: \"images/creeper_cake.jpeg\"\ncategory: \"cake\"\n---\n\n\nCreeper stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/creeper_cake.jpeg)\n:::\n:::\n",
-    "supporting": [
-      "creeper-cake_files"
-    ],
+    "markdown": "---\ntitle: \"Creeper cake\"\ndate: \"2021-06-03\"\nimage: \"images/creeper_cake.jpeg\"\ncategory: \"cake\"\n---\n\n\nCreeper stuff \n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/creeper_cake.jpeg)\n:::\n:::\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
