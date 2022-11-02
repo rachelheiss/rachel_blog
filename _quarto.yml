@@ -12,8 +12,6 @@ website:
   navbar:
     background: primary
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
       - href: data-science-final-project/index.qmd
         text: Broadway Project
