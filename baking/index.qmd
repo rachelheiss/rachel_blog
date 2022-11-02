@@ -1,6 +1,6 @@
 ---
 title: "Baking things"
-listing: default
+listing: grid
 ---
 
 I bake.
