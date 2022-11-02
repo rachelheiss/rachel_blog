@@ -1,5 +1,103 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "baking/smores-cake.html",
+    "href": "baking/smores-cake.html",
+    "title": "Smores cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/lemon-blueberrry-cake.html",
+    "href": "baking/lemon-blueberrry-cake.html",
+    "title": "Lemon blueberry cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/mixed-veggie-cake.html",
+    "href": "baking/mixed-veggie-cake.html",
+    "title": "Mixed veggie cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/flower-cake.html",
+    "href": "baking/flower-cake.html",
+    "title": "Flower cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/mermaid-cake.html",
+    "href": "baking/mermaid-cake.html",
+    "title": "Mermaid cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/index.html",
+    "href": "baking/index.html",
+    "title": "Baking things",
+    "section": "",
+    "text": "Bluey cake\n\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\nCreeper cake\n\n\n\n\n\n\n\n\n\n\n\n\nJun 3, 2021\n\n\n\n\n\n\n  \n\n\n\n\nFirst cake\n\n\n\n\n\n\n\n\n\n\n\n\nMay 23, 2020\n\n\n\n\n\n\n  \n\n\n\n\nFlower cake\n\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\nFrench revolution cake\n\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\nHobbit cake\n\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\nLemon blueberry cake\n\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\nMermaid cake\n\n\n\n\n\n\n\n\n\n\n\n\nMay 23, 2021\n\n\n\n\n\n\n  \n\n\n\n\nMixed veggie cake\n\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\nMushroom cake\n\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\n\n\n\n\n  \n\n\n\n\nSmores cake\n\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n  \n\n\n\n\nSpooky cake\n\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "baking/bluey-cake.html",
+    "href": "baking/bluey-cake.html",
+    "title": "Bluey cake",
+    "section": "",
+    "text": "asdfa adsf asdf\nadsf"
+  },
+  {
+    "objectID": "baking/mushroom-cake.html",
+    "href": "baking/mushroom-cake.html",
+    "title": "Mushroom cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/hobbit-cake.html",
+    "href": "baking/hobbit-cake.html",
+    "title": "Hobbit cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/creeper-cake.html",
+    "href": "baking/creeper-cake.html",
+    "title": "Creeper cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/french-revolution-cake.html",
+    "href": "baking/french-revolution-cake.html",
+    "title": "French revolution cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/spooky-cake.html",
+    "href": "baking/spooky-cake.html",
+    "title": "Spooky cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/first-cake.html",
+    "href": "baking/first-cake.html",
+    "title": "First cake",
+    "section": "",
+    "text": "asdfa adsf asdf adsf"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -12,13 +110,6 @@
     "title": "About",
     "section": "Contact Me",
     "text": "Contact Me\n\nGitHub: rachelheiss\nEmail: rachelheiss@gmail.com\nTwitter: @RachelHeiss1"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Posts",
-    "section": "",
-    "text": "No matching items"
   },
   {
     "objectID": "data-science-final-project/top_broadway_trends.html",
@@ -35,18 +126,18 @@
     "text": "Most Popular Shows (In Depth)\nThese two graphs paint a better picture of what the most popular shows are. Instead of being organized by how many years they ran weekly, they’re organized by the percentage of their total years on Broadway running every week, and coloured by how long they’ve been playing on Broadway in general. If you hover over a point, you can see the name of the show that that point represents.\nIn this graph, you can see that as the percentage of a show’s total time on Broadway running weekly gets higher, so does the theatre capacity filled, which means that more people go to those shows. This makes The Book of Mormon and Hamilton the top two shows, both with over 100% theatre capacity filled on average (standing room only), and around 70% of their total time on Broadway running weekly. This still makes The Phantom of the Opera really popluar, but below Wicked, The Lion King, and Aladin in theatre capacity filled.\n\n\n\n\n\n\n\n\nThis graph shows the average ticket prices for Broadway’s most popular shows. The Book of Mormon and Hamilton (which, as we know, are the most popular shows) are the most expensive, with Hamilton as a clear outlier at around $300 a ticket. As we reach shows with a higher percentage of time on Broadway running weekly, prices rise and peak at Hamilton and The Book of Mormon, then drop back down into 100 dollar territory at older shows that have spent most of their time as weekly shows."
   },
   {
-    "objectID": "data-science-final-project/index.html",
-    "href": "data-science-final-project/index.html",
-    "title": "These Prices are Defying Gravity: Broadway Trends 1985 - 2022",
-    "section": "",
-    "text": "This animated graph shows ticket price and theatre capacity filled for every Broadway show 1985-2022. (“Percentage of theatre capacity filled” is the percentage of seats taken from the total seats available in a theatre)\n\n\n\n\n\n\n\nAll code for this project can be found here."
-  },
-  {
     "objectID": "data-science-final-project/sources.html",
     "href": "data-science-final-project/sources.html",
     "title": "Sources",
     "section": "",
     "text": "playbill.com\n\nSpecifically this dataset on Kaggle\n\nLearning how to use gganimate:\n\nThis article on Datanovia\ngganimate.com\nThis article on RPubs\nThis article on “Towards Data Science”\nAnd this article on “Towards Data Science”"
+  },
+  {
+    "objectID": "data-science-final-project/index.html",
+    "href": "data-science-final-project/index.html",
+    "title": "These Prices are Defying Gravity: Broadway Trends 1985 - 2022",
+    "section": "",
+    "text": "This animated graph shows ticket price and theatre capacity filled for every Broadway show 1985-2022. (“Percentage of theatre capacity filled” is the percentage of seats taken from the total seats available in a theatre)\n\n\n\n\n\n\n\nAll code for this project can be found here."
   },
   {
     "objectID": "data-science-final-project/graphs_1.html#thing2",
