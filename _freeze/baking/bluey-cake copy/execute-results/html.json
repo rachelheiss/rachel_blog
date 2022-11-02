@@ -1,0 +1,14 @@
+{
+  "hash": "9e269b7b351705afe284587a5b68dc7c",
+  "result": {
+    "markdown": "---\ntitle: \"Creeper cake\"\ndate: \"2021-6-3\"\ncategory: \"cake\"\n---\n\n\nCreeper stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/creeper_cake.jpeg)\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

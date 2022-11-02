@@ -1,0 +1,14 @@
+{
+  "hash": "d3d6381904cec53a12b9faf914e2b638",
+  "result": {
+    "markdown": "---\ntitle: \"Bluey cake\"\ndate: \"2022-10-14\"\ncategory: \"cake\"\n---\n\n\nBluey stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/bluey_cake_1.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/bluey_cake_2.jpeg)\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

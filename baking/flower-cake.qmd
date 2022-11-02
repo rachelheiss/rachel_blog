@@ -1,0 +1,19 @@
+---
+title: "Flower cake"
+date: "2022-10-14"
+image: "images/flower_cake.jpeg"
+category: "cake"
+---
+
+Flower stuff
+
+asdfa
+adsf
+asdf
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/flower_cake.jpeg")
+```
+

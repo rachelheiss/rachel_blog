@@ -1,0 +1,20 @@
+---
+title: "Spooky cake"
+date: "2022-10-14"
+image: "images/spooky_vibe_cake.jpeg"
+category: "cake"
+---
+
+Spooky stuff
+
+asdfa
+adsf
+asdf
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/spooky_vibe_cake.jpeg")
+```
+
+ 

@@ -1,0 +1,14 @@
+{
+  "hash": "4903a87a6310186b9bcecade37a74d5d",
+  "result": {
+    "markdown": "---\ntitle: \"Baking\"\n---\n\n\n## Cakes\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/bluey_cake_1.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/creeper_cake.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/first_cake.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/flower_cake.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/hobbit_cake.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/lemon_blueberry_cake.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/mermaid_cake_1.jpeg)\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

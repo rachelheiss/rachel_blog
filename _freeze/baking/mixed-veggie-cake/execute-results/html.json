@@ -1,0 +1,16 @@
+{
+  "hash": "14a2192dff871939ac4cb2a8e7456edc",
+  "result": {
+    "markdown": "---\ntitle: \"Mixed veggie cake\"\ndate: \"2022-10-14\"\nimage: \"images/mixed_veggie_cake_1.jpeg\"\ncategory: \"cake\"\n---\n\n\nVeggie stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/mixed_veggie_cake_1.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/mixed_veggie_cake_2.jpeg)\n:::\n:::",
+    "supporting": [
+      "mixed-veggie-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

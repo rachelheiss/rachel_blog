@@ -44,6 +44,7 @@ avg_ticket_price <-broadway |>
   group_by(year) |>
   summarise(avg_ticket = mean(avg_ticket_2022))
 
+# Making graph
 plot_ticket_price_graph <- avg_ticket_price |>
   ggplot(mapping = aes(x = year, y =  avg_ticket, text = "")) +
   geom_smooth(color = my_colors[3], se = FALSE, method = "loess", formula =  "y ~ x") +
@@ -65,6 +66,7 @@ avg_theatre_pct_cap <- broadway |>
   summarise(avg_pct_cap = mean(pct_cap)) |>
   mutate(avg_pct_cap = avg_pct_cap/100)
 
+# Making graph
 plot_pct_cap_graph <- avg_theatre_pct_cap  |>
   ggplot(mapping = aes(x = year, y =  avg_pct_cap)) +
   geom_smooth(color = my_colors[3], se = FALSE, method = "loess", formula =  "y ~ x") +

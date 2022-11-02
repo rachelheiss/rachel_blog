@@ -17,6 +17,8 @@ website:
       - about.qmd
       - href: data-science-final-project/index.qmd
         text: Broadway Project
+      - href: baking/index.qmd
+        text: Baking
        
   sidebar:
     - id: data-science-final-project

@@ -1,0 +1,18 @@
+---
+title: "Creeper cake"
+date: "2021-06-03"
+image: "images/creeper_cake.jpeg"
+category: "cake"
+---
+
+Creeper stuff
+
+asdfa
+adsf
+asdf
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/creeper_cake.jpeg")
+```

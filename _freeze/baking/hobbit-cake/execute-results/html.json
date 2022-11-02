@@ -1,0 +1,16 @@
+{
+  "hash": "9b285ca95a72e266d07b7e79e0c93817",
+  "result": {
+    "markdown": "---\ntitle: \"Hobbit cake\"\ndate: \"2022-10-14\"\nimage: \"images/hobbit_cake.jpeg\" \ncategory: \"cake\"\n---\n\n\nHobbit stuff\n\nasdfa \nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/hobbit_cake.jpeg)\n:::\n:::\n",
+    "supporting": [
+      "hobbit-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

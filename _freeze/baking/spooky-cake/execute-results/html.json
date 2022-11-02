@@ -1,0 +1,16 @@
+{
+  "hash": "dff38a6fc24df981f5c9dcbf218f9967",
+  "result": {
+    "markdown": "---\ntitle: \"Spooky cake\"\ndate: \"2022-10-14\"\nimage: \"images/spooky_vibe_cake.jpeg\"\ncategory: \"cake\"\n---\n\n\nSpooky stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/spooky_vibe_cake.jpeg)\n:::\n:::\n",
+    "supporting": [
+      "spooky-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

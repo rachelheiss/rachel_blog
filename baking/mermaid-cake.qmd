@@ -1,0 +1,22 @@
+---
+title: "Mermaid cake"
+date: "2021-05-23"
+image: "images/mermaid_cake_1.jpeg"
+category: "cake"
+---
+
+Mermaid stuff
+
+asdfa
+adsf 
+asdf
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/mermaid_cake_1.jpeg")
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/mermaid_cake_2.jpeg")
+```

@@ -1,0 +1,16 @@
+{
+  "hash": "bbe2ef680c5938db8c1ed5a69b272cd7",
+  "result": {
+    "markdown": "---\ntitle: \"First cake\"\ndate: \"2020-05-23\"\nimage: \"images/first_cake.jpeg\" \ncategory: \"cake\"\n---\n\n\n stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/first_cake.jpeg)\n:::\n:::\n",
+    "supporting": [
+      "first-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

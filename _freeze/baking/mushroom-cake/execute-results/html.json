@@ -1,0 +1,16 @@
+{
+  "hash": "71f44f2bda7a6b744c859ffc7eb636a2",
+  "result": {
+    "markdown": "---\ntitle: \"Mushroom cake\"\ndate: \"2022-10-25\"\nimage: \"images/mushroom_cake.jpeg\"\ncategory: \"cake\"\n---\n\n\nMushroom stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/mushroom_cake.jpeg)\n:::\n:::\n",
+    "supporting": [
+      "mushroom-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

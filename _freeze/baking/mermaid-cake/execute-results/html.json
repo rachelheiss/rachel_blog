@@ -1,0 +1,16 @@
+{
+  "hash": "407e3a9199385686a0341ffb803195a2",
+  "result": {
+    "markdown": "---\ntitle: \"Mermaid cake\"\ndate: \"2021-05-23\"\nimage: \"images/mermaid_cake_1.jpeg\"\ncategory: \"cake\"\n---\n\n\nMermaid stuff\n\nasdfa\nadsf \nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/mermaid_cake_1.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/mermaid_cake_2.jpeg)\n:::\n:::",
+    "supporting": [
+      "mermaid-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

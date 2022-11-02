@@ -1,0 +1,16 @@
+{
+  "hash": "cd5e9b26aba6ba094c0fcf667ed71f76",
+  "result": {
+    "markdown": "---\ntitle: \"Creeper cake\"\ndate: \"2021-06-03\"\nimage: \"images/creeper_cake.jpeg\"\ncategory: \"cake\"\n---\n\n\nCreeper stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/creeper_cake.jpeg)\n:::\n:::\n",
+    "supporting": [
+      "creeper-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

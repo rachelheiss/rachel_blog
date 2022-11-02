@@ -1,0 +1,16 @@
+{
+  "hash": "f57352628b4f8151846f39929637fee2",
+  "result": {
+    "markdown": "---\ntitle: \"Lemon blueberry cake\"\ndate: \"2022-10-14\"\nimage: \"images/lemon_blueberry_cake.jpeg\"\ncategory: \"cake\"\n---\n\n\n stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/lemon_blueberry_cake.jpeg)\n:::\n:::\n",
+    "supporting": [
+      "lemon-blueberrry-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

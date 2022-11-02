@@ -1,0 +1,16 @@
+{
+  "hash": "fe0ef6c77b2fbf16720b3e16741e09ec",
+  "result": {
+    "markdown": "---\ntitle: \"French revolution cake\"\ndate: \"2022-10-14\"\nimage: \"images/revolution_cake.jpeg\"\ncategory: \"cake\"\n---\n\n\nGuillotine stuff\n\nasdfa\nadsf\nasdf\nadsf \n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/revolution_cake.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/revolution_cake_2.jpeg)\n:::\n:::",
+    "supporting": [
+      "french-revolution-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

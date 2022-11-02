@@ -1,0 +1,16 @@
+{
+  "hash": "7c22e9e2f2e3707312e9b1a87c8c3899",
+  "result": {
+    "markdown": "---\ntitle: \"Smores cake\"\ndate: \"2022-10-14\"\nimage: \"images/smores_cake_1.jpeg\" \ncategory: \"cake\"\n---\n\n\nSmores stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/smores_cake_1.jpeg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/smores_cake_2.jpeg)\n:::\n:::",
+    "supporting": [
+      "smores-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

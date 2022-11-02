@@ -1,0 +1,16 @@
+{
+  "hash": "e384494b91a7a1b02759c8c4fe1e2165",
+  "result": {
+    "markdown": "---\ntitle: \"Flower cake\"\ndate: \"2022-10-14\"\nimage: \"images/flower_cake.jpeg\"\ncategory: \"cake\"\n---\n\n\nFlower stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/flower_cake.jpeg)\n:::\n:::\n",
+    "supporting": [
+      "flower-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

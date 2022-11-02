@@ -1,0 +1,22 @@
+---
+title: "French revolution cake"
+date: "2022-10-14"
+image: "images/revolution_cake.jpeg"
+category: "cake"
+---
+
+Guillotine stuff
+
+asdfa
+adsf
+asdf
+adsf 
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/revolution_cake.jpeg")
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/revolution_cake_2.jpeg")
+```

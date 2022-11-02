@@ -1,0 +1,19 @@
+---
+title: "Hobbit cake"
+date: "2022-10-14"
+image: "images/hobbit_cake.jpeg" 
+category: "cake"
+---
+
+Hobbit stuff
+
+asdfa 
+adsf
+asdf
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/hobbit_cake.jpeg")
+```
+

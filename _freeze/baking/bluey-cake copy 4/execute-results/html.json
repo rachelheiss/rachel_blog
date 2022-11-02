@@ -1,0 +1,14 @@
+{
+  "hash": "4757662af6853874bcb0e3688f4a8796",
+  "result": {
+    "markdown": "---\ntitle: \"Hobbit cake\"\ndate: \"2022-10-14\"\ncategory: \"cake\"\n---\n\n\nHobbit stuff\n\nasdfa\nadsf\nasdf\nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/hobbit_cake.jpeg)\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

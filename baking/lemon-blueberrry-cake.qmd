@@ -1,0 +1,19 @@
+---
+title: "Lemon blueberry cake"
+date: "2022-10-14"
+image: "images/lemon_blueberry_cake.jpeg"
+category: "cake"
+---
+
+ stuff
+
+asdfa
+adsf
+asdf
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/lemon_blueberry_cake.jpeg")
+```
+

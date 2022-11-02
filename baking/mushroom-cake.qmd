@@ -1,0 +1,19 @@
+---
+title: "Mushroom cake"
+date: "2022-10-25"
+image: "images/mushroom_cake.jpeg"
+category: "cake"
+---
+
+Mushroom stuff
+
+asdfa
+adsf
+asdf
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/mushroom_cake.jpeg")
+```
+

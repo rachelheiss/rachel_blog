@@ -1,0 +1,22 @@
+---
+title: "Mixed veggie cake"
+date: "2022-10-14"
+image: "images/mixed_veggie_cake_1.jpeg"
+category: "cake"
+---
+
+Veggie stuff
+
+asdfa
+adsf
+asdf
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/mixed_veggie_cake_1.jpeg")
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/mixed_veggie_cake_2.jpeg")
+```

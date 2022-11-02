@@ -1,0 +1,22 @@
+---
+title: "Bluey cake"
+date: "2022-10-14"
+image: "images/bluey_cake_1.jpeg"
+category: "cake"
+---
+
+Bluey stuff
+
+asdfa
+adsf
+asdf  
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/bluey_cake_1.jpeg")
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/bluey_cake_2.jpeg")
+```
