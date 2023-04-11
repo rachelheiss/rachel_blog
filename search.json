@@ -7,102 +7,25 @@
     "text": "No matching items"
   },
   {
-    "objectID": "baking/smores-cake.html",
-    "href": "baking/smores-cake.html",
-    "title": "Smores cake",
+    "objectID": "data-science-final-project/index.html",
+    "href": "data-science-final-project/index.html",
+    "title": "These Prices are Defying Gravity: Broadway Trends 1985 - 2022",
     "section": "",
-    "text": "asdfa adsf asdf adsf"
+    "text": "How has Broadway changed in the past 37 years? This data –made up of about 47, 000 observations– spans from 1985 to 2022 and was scraped from playbill.com. Ticket prices are adjusted for inflation, and then several graphs examine ticket prices and theater capacity over the years both overall and for the most popular shows. Today’s Broadway tickets cost much more than they did in the 80s, but theaters are fuller despite the rising prices.\nThis animated graph shows ticket price and theatre capacity filled for every Broadway show 1985-2022. (“Percentage of theatre capacity filled” is the percentage of seats taken from the total seats available in a theatre)\n\n\n\n\n\n\n\nAll code for this project can be found here."
   },
   {
-    "objectID": "baking/lemon-blueberrry-cake.html",
-    "href": "baking/lemon-blueberrry-cake.html",
-    "title": "Lemon blueberry cake",
+    "objectID": "data-science-final-project/overall_broadway_trends.html",
+    "href": "data-science-final-project/overall_broadway_trends.html",
+    "title": "Overall",
     "section": "",
-    "text": "asdfa adsf asdf adsf"
+    "text": "These graphs show Broadway’s yearly average ticket prices and theatre capacity filled.\n\n\n\n\n\n\n\n\n\n\n\n\n\nAs you can see, both ticket prices and the percent of seats filled have been going up, but people aren’t filling up theatres because it costs more to attend shows— Broadway’s just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay."
   },
   {
-    "objectID": "baking/mixed-veggie-cake.html",
-    "href": "baking/mixed-veggie-cake.html",
-    "title": "Mixed veggie cake",
+    "objectID": "data-science-final-project/sources.html",
+    "href": "data-science-final-project/sources.html",
+    "title": "Sources",
     "section": "",
-    "text": "asdfa adsf asdf adsf"
-  },
-  {
-    "objectID": "baking/flower-cake.html",
-    "href": "baking/flower-cake.html",
-    "title": "Flower cake",
-    "section": "",
-    "text": "asdfa adsf asdf adsf"
-  },
-  {
-    "objectID": "baking/mermaid-cake.html",
-    "href": "baking/mermaid-cake.html",
-    "title": "Mermaid cake",
-    "section": "",
-    "text": "asdfa adsf asdf adsf"
-  },
-  {
-    "objectID": "baking/index.html",
-    "href": "baking/index.html",
-    "title": "Baking things",
-    "section": "",
-    "text": "Bluey cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreeper cake\n\n\n\n\n\n\n\n\n\nJun 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst cake\n\n\n\n\n\n\n\n\n\nMay 23, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlower cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrench revolution cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHobbit cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLemon blueberry cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMermaid cake\n\n\n\n\n\n\n\n\n\nMay 23, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMixed veggie cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMushroom cake\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSmores cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpooky cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "baking/bluey-cake.html",
-    "href": "baking/bluey-cake.html",
-    "title": "Bluey cake",
-    "section": "",
-    "text": "asdfa adsf asdf\nadsf"
-  },
-  {
-    "objectID": "baking/mushroom-cake.html",
-    "href": "baking/mushroom-cake.html",
-    "title": "Mushroom cake",
-    "section": "",
-    "text": "asdfa adsf asdf adsf"
-  },
-  {
-    "objectID": "baking/hobbit-cake.html",
-    "href": "baking/hobbit-cake.html",
-    "title": "Hobbit cake",
-    "section": "",
-    "text": "asdfa adsf asdf adsf"
-  },
-  {
-    "objectID": "baking/creeper-cake.html",
-    "href": "baking/creeper-cake.html",
-    "title": "Creeper cake",
-    "section": "",
-    "text": "asdfa adsf asdf adsf"
-  },
-  {
-    "objectID": "baking/french-revolution-cake.html",
-    "href": "baking/french-revolution-cake.html",
-    "title": "French revolution cake",
-    "section": "",
-    "text": "asdfa adsf asdf adsf"
-  },
-  {
-    "objectID": "baking/spooky-cake.html",
-    "href": "baking/spooky-cake.html",
-    "title": "Spooky cake",
-    "section": "",
-    "text": "asdfa adsf asdf adsf"
-  },
-  {
-    "objectID": "baking/first-cake.html",
-    "href": "baking/first-cake.html",
-    "title": "First cake",
-    "section": "",
-    "text": "asdfa adsf asdf adsf"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Hello there! My name is Rachel Heiss, and I’m a home schooled sophomore in high school. I’m the oldest of six kids and live near Atlanta, Georgia. I enjoy baking, reading, writing, Marvel movies, and listening to musicals, podcasts, and Taylor Swift."
+    "text": "playbill.com\n\nSpecifically this dataset on Kaggle\n\nLearning how to use gganimate:\n\nThis article on Datanovia\ngganimate.com\nThis article on RPubs\nThis article on “Towards Data Science”\nAnd this article on “Towards Data Science”"
   },
   {
     "objectID": "data-science-final-project/top_broadway_trends.html",
@@ -119,20 +42,6 @@
     "text": "Most Popular Shows (In Depth)\nThese two graphs paint a better picture of what the most popular shows are. Instead of being organized by how many years they ran weekly, they’re organized by the percentage of their total years on Broadway running every week, and coloured by how long they’ve been playing on Broadway in general. If you hover over a point, you can see the name of the show that that point represents.\nIn this graph, you can see that as the percentage of a show’s total time on Broadway running weekly gets higher, so does the theatre capacity filled, which means that more people go to those shows. This makes The Book of Mormon and Hamilton the top two shows, both with over 100% theatre capacity filled on average (standing room only), and around 70% of their total time on Broadway running weekly. This still makes The Phantom of the Opera really popluar, but below Wicked, The Lion King, and Aladin in theatre capacity filled.\n\n\n\n\n\n\n\n\nThis graph shows the average ticket prices for Broadway’s most popular shows. The Book of Mormon and Hamilton (which, as we know, are the most popular shows) are the most expensive, with Hamilton as a clear outlier at around $300 a ticket. As we reach shows with a higher percentage of time on Broadway running weekly, prices rise and peak at Hamilton and The Book of Mormon, then drop back down into 100 dollar territory at older shows that have spent most of their time as weekly shows."
   },
   {
-    "objectID": "data-science-final-project/sources.html",
-    "href": "data-science-final-project/sources.html",
-    "title": "Sources",
-    "section": "",
-    "text": "playbill.com\n\nSpecifically this dataset on Kaggle\n\nLearning how to use gganimate:\n\nThis article on Datanovia\ngganimate.com\nThis article on RPubs\nThis article on “Towards Data Science”\nAnd this article on “Towards Data Science”"
-  },
-  {
-    "objectID": "data-science-final-project/index.html",
-    "href": "data-science-final-project/index.html",
-    "title": "These Prices are Defying Gravity: Broadway Trends 1985 - 2022",
-    "section": "",
-    "text": "This animated graph shows ticket price and theatre capacity filled for every Broadway show 1985-2022. (“Percentage of theatre capacity filled” is the percentage of seats taken from the total seats available in a theatre)\n\n\n\n\n\n\n\nAll code for this project can be found here."
-  },
-  {
     "objectID": "data-science-final-project/graphs_1.html#thing2",
     "href": "data-science-final-project/graphs_1.html#thing2",
     "title": "More Graphs",
@@ -140,10 +49,122 @@
     "text": "thing2\nhere’s a paragraph"
   },
   {
-    "objectID": "data-science-final-project/overall_broadway_trends.html",
-    "href": "data-science-final-project/overall_broadway_trends.html",
-    "title": "Overall",
+    "objectID": "baking/marauders-cake.html",
+    "href": "baking/marauders-cake.html",
+    "title": "Marauders cake",
     "section": "",
-    "text": "As you can see, both ticket prices and the percent of seats filled have been going up, but people aren’t filling up theatres because it costs more to attend shows— Broadway’s just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay."
+    "text": "Harry Potter stuff\nasdfa adsf asdf\nadsf"
+  },
+  {
+    "objectID": "baking/index.html",
+    "href": "baking/index.html",
+    "title": "Baking things",
+    "section": "",
+    "text": "I bake.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBluey cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreeper cake\n\n\n\n\n\n\n\n\n\nJun 3, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFall leaves cake\n\n\n\n\n\n\n\n\n\nSep 19, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst cake\n\n\n\n\n\n\n\n\n\nMay 23, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFlower cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrench revolution cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHobbit cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLemon blueberry cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarauders cake\n\n\n\n\n\n\n\n\n\nMay 23, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMermaid cake\n\n\n\n\n\n\n\n\n\nMay 23, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMixed veggie cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMushroom cake\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRaspberry vanilla cake\n\n\n\n\n\n\n\n\n\nOct 25, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSmores cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpooky cake\n\n\n\n\n\n\n\n\n\nOct 14, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "baking/bluey-cake.html",
+    "href": "baking/bluey-cake.html",
+    "title": "Bluey cake",
+    "section": "",
+    "text": "Bluey stuff\nasdfa adsf asdf\nadsf"
+  },
+  {
+    "objectID": "baking/mermaid-cake.html",
+    "href": "baking/mermaid-cake.html",
+    "title": "Mermaid cake",
+    "section": "",
+    "text": "Mermaid stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/spooky-cake.html",
+    "href": "baking/spooky-cake.html",
+    "title": "Spooky cake",
+    "section": "",
+    "text": "Spooky stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/smores-cake.html",
+    "href": "baking/smores-cake.html",
+    "title": "Smores cake",
+    "section": "",
+    "text": "Smores stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/hobbit-cake.html",
+    "href": "baking/hobbit-cake.html",
+    "title": "Hobbit cake",
+    "section": "",
+    "text": "Hobbit stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/mushroom-cake.html",
+    "href": "baking/mushroom-cake.html",
+    "title": "Mushroom cake",
+    "section": "",
+    "text": "Mushroom stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/raspberry-cake.html",
+    "href": "baking/raspberry-cake.html",
+    "title": "Raspberry vanilla cake",
+    "section": "",
+    "text": "Miriam’s birthday stuff\nasdfa adsf asdf\nadsf"
+  },
+  {
+    "objectID": "baking/mixed-veggie-cake.html",
+    "href": "baking/mixed-veggie-cake.html",
+    "title": "Mixed veggie cake",
+    "section": "",
+    "text": "Veggie stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/french-revolution-cake.html",
+    "href": "baking/french-revolution-cake.html",
+    "title": "French revolution cake",
+    "section": "",
+    "text": "Guillotine stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/fall-cake.html",
+    "href": "baking/fall-cake.html",
+    "title": "Fall leaves cake",
+    "section": "",
+    "text": "Dad’s birthday stuff\nasdfa adsf asdf\nadsf"
+  },
+  {
+    "objectID": "baking/first-cake.html",
+    "href": "baking/first-cake.html",
+    "title": "First cake",
+    "section": "",
+    "text": "stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/creeper-cake.html",
+    "href": "baking/creeper-cake.html",
+    "title": "Creeper cake",
+    "section": "",
+    "text": "Creeper stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/lemon-blueberrry-cake.html",
+    "href": "baking/lemon-blueberrry-cake.html",
+    "title": "Lemon blueberry cake",
+    "section": "",
+    "text": "stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "baking/flower-cake.html",
+    "href": "baking/flower-cake.html",
+    "title": "Flower cake",
+    "section": "",
+    "text": "Flower stuff\nasdfa adsf asdf adsf"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello there! My name is Rachel Heiss, and I’m a home schooled sophomore in high school. I’m the oldest of six kids and live near Atlanta, Georgia. I enjoy baking, reading, writing, Marvel movies, and listening to musicals, podcasts, and Taylor Swift."
   }
 ]
