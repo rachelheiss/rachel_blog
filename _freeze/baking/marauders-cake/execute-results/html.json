@@ -1,0 +1,16 @@
+{
+  "hash": "77cac52c4ed820358eaaad4a113e45be",
+  "result": {
+    "markdown": "---\ntitle: \"Marauders cake\"\ndate: \"2022-5-23\"\nimage: \"images/marauders_cake_1.jpg\"\ncategory: \"cake\"\n---\n\n\nHarry Potter stuff\n\nasdfa\nadsf\nasdf  \nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/marauders_cake_1.jpg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/marauders_cake_2.jpg)\n:::\n:::",
+    "supporting": [
+      "marauders-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

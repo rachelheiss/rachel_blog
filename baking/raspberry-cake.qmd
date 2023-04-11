@@ -1,0 +1,22 @@
+---
+title: "Raspberry vanilla cake"
+date: "2020-10-25"
+image: "images/raspberry_cake_1.jpg"
+category: "cake"
+---
+
+Miriam's birthday stuff
+
+asdfa
+adsf
+asdf  
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/raspberry_cake_1.jpg")
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/raspberry_cake_2.jpg")
+```

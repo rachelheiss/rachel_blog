@@ -1,0 +1,22 @@
+---
+title: "Fall leaves cake"
+date: "2020-9-19"
+image: "images/fall_cake_1.jpg"
+category: "cake"
+---
+
+Dad's birthday stuff
+
+asdfa
+adsf
+asdf  
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/fall_cake_1.jpg")
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/fall_cake_2.jpg")
+```

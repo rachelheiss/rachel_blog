@@ -1,0 +1,16 @@
+{
+  "hash": "9712f9fd20ec6f32db76ad659dfe5e4a",
+  "result": {
+    "markdown": "---\ntitle: \"Raspberry vanilla cake\"\ndate: \"2020-10-25\"\nimage: \"images/raspberry_cake_1.jpg\"\ncategory: \"cake\"\n---\n\n\nMiriam's birthday stuff\n\nasdfa\nadsf\nasdf  \nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/raspberry_cake_1.jpg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/raspberry_cake_2.jpg)\n:::\n:::",
+    "supporting": [
+      "raspberry-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

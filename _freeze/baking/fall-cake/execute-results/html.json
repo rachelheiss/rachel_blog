@@ -1,0 +1,16 @@
+{
+  "hash": "8ae0f85fc560da62979eaee533ed1263",
+  "result": {
+    "markdown": "---\ntitle: \"Fall leaves cake\"\ndate: \"2020-9-19\"\nimage: \"images/fall_cake_1.jpg\"\ncategory: \"cake\"\n---\n\n\nDad's birthday stuff\n\nasdfa\nadsf\nasdf  \nadsf\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/fall_cake_1.jpg)\n:::\n:::\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/fall_cake_2.jpg)\n:::\n:::",
+    "supporting": [
+      "fall-cake_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

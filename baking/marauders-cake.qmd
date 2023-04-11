@@ -1,0 +1,22 @@
+---
+title: "Marauders cake"
+date: "2022-5-23"
+image: "images/marauders_cake_1.jpg"
+category: "cake"
+---
+
+Harry Potter stuff
+
+asdfa
+adsf
+asdf  
+adsf
+
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/marauders_cake_1.jpg")
+```
+
+```{r, echo = FALSE}
+knitr::include_graphics("images/marauders_cake_2.jpg")
+```
